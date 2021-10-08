@@ -1,0 +1,9 @@
+config/
+.env
+
+# node
+node_modules/
+dist/
+
+# scripts
+build.js
